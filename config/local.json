@@ -2,23 +2,12 @@
   "pm-20": [
     {
       "credentials": {
-        "url": "https://palblyp.pmservice.ibmcloud.com/pm/v1",
-        "access_key": "UOxzepXwWIOGdODUOWi9Q8Fv8dRBNNIft3WWqqGfr2KTCCmiqtf7urG41Vi0Apisc1AbOE1UW5e5NZRAC6JLeDzJSS3VoegUVevMLMG3cCN3hLmmp41gOq3wK9V1hr6nZ/bPgtsRBQcYd0XqjIZ4fGShAU5xzULG4bzrBu/Fg8A=",
-        "username": "272239b6-b6be-4e95-a75f-0acafe067009",
-        "password": "1c3ded87-fed6-44cb-9976-3174354772ad",
-        "instance_id": "a0209626-7c76-4a35-b2bb-14f978c716b5"
-      },
-      "syslog_drain_url": null,
-      "volume_mounts": [],
-      "label": "pm-20",
-      "provider": null,
-      "plan": "standard",
-      "name": "ML-Sample",
-      "tags": [
-        "data_management",
-        "ibm_created",
-        "ibm_dedicated_public"
-      ]
+              "url": "https://palblyp.pmservice.ibmcloud.com/pm/v1",
+              "access_key": "UOxzepXwWIOGdODUOWi9Q8Fv8dRBNNIft3WWqqGfr2KTCCmiqtf7urG41Vi0Apisc1AbOE1UW5e5NZRAC6JLeDzJSS3VoegUVevMLMG3cCN3hLmmp41gOq3wK9V1hr6nZ/bPgtsRBQcYd0XqjIZ4fGShAU5xzULG4bzrBu/Fg8A=",
+              "username": "272239b6-b6be-4e95-a75f-0acafe067009",
+              "password": "1c3ded87-fed6-44cb-9976-3174354772ad",
+              "instance_id": "a0209626-7c76-4a35-b2bb-14f978c716b5"
+      }
     }
   ]
 }
